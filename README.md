@@ -11,7 +11,7 @@ contains all the dotfiles for my Arch Linux i3wm setup.
 ![error](https://i.imgur.com/wTXxDnb.png)
 
 # Rofi Power-Menu
-![error(https://i.imgur.com/aCxkDI6.png)
+![error](https://i.imgur.com/aCxkDI6.png)
 
 # Rofi Screenshot-Menu
 ![error](https://i.imgur.com/7I3EuOY.png)
